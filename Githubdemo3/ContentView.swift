@@ -7,13 +7,14 @@
 
 import SwiftUI
 
+// how are you brother
 struct ContentView: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("I am great and rich!")
         }
         .padding()
     }
